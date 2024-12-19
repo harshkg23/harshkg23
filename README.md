@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Harsh Kumar Gupta, a tech enthusiast</p>
+<p align="left">My name is Harsh Kumar Gupta, a tech enthusiast.</p>
 
 ###
 
