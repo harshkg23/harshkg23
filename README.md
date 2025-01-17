@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I'm a full stack developer.<br>📚 I'm currently exploring DevOps<br>⚡ I enjoy problem solving<br>🎯 Looking forward to collaborate on web based projects</p>
+<p align="left">🔭 I'm a full stack developer.<br>📚 I'm currently exploring typescript and NextJs<br>⚡ I enjoy problem solving<br>🎯 Looking forward to collaborate on web based projects</p>
 
 ###
 
